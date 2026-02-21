@@ -123,7 +123,44 @@
 </table>
 </div>
 
-
+## GitHub Analytics
+  <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+<!-- GitHub Contribution stats -->
+    <tr>
+      <td style="padding: 10px; width: 35%;">
+        <img src="https://gh-readme-profile.vercel.app/api?username=Thrax-911&hide_border=true&title_color=9b5de5&icon_color=9b5de5&text_color=dcdcdc&bg_color=1a1b27" alt="Profile" width="1000"/>
+    </tr>
+</table>
+          <!-- GitHub Contribution Languages -->
+<!-- <table style="width: 100%; border-collapse: collapse; margin-bottom: 20px;">
+<tr>
+      <td style="padding: 10px; width: 35%;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thrax-911&layout=compact&hide_border=true&title_color=9b5de5&text_color=dcdcdc&bg_color=1a1b27" alt="Most Used Languages" width="1000"/>
+      </td>
+       <td style="padding: 10px; width: 35%;">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Thrax-911&hide_border=true&title_color=9b5de5&icon_color=9b5de5&text_color=dcdcdc&bg_color=1a1b27" alt="Most Used Languages" width="1000"/>
+      </td>
+</tr> -->
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <!-- LEFT SIDE - TOP ROW (Trophies) -->
+    <td style="padding: 20px; text-align: center; vertical-align: top;">
+      <h4 style="color: #6F3AFF; margin-bottom: 15px;">🏆 GitHub Achievements</h4>
+      <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=Thrax-911&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=5&margin-h=5" 
+           alt="GitHub Trophies" width="450"/>
+      <br><br>
+      <!-- LEFT SIDE - BOTTOM ROW (Pinned Repo) -->
+      <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=sh1vam-03&repo=whatsapp-spammer&hide_border=true&title_color=9b5de5&icon_color=9b5de5&text_color=dcdcdc&bg_color=1a1b27" 
+           alt="Pinned Repo" width="450"/> -->
+    </td>
+    <!-- RIGHT SIDE (Portfolio) -->
+    <td style="padding: 20px; text-align: center; vertical-align: middle;">
+      <a href="https://thrax.ae" style="color: #6F3AFF; font-size: 18px; font-weight: bold; text-decoration: none;">
+        🌐 Visit My Portfolio
+      </a>
+      <br><br>
+      <img src="https://github.com/user-attachments/assets/bc3cf9af-ad02-4c73-a9cc-88624c937474" 
+           alt="Portfolio Preview" width="450"/>
     </td>
   </tr>
 </table>
