@@ -146,7 +146,7 @@
     <!-- LEFT SIDE - TOP ROW (Trophies) -->
     <td style="padding: 20px; text-align: center; vertical-align: top;">
       <h4 style="color: #6F3AFF; margin-bottom: 15px;">🏆 GitHub Achievements</h4>
-      <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=sh1vam-03&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=5&margin-h=5" 
+      <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=Thrax-911&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=5&margin-h=5" 
            alt="GitHub Trophies" width="450"/>
       <br><br>
       <!-- LEFT SIDE - BOTTOM ROW (Pinned Repo) -->
