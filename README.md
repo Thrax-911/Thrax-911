@@ -1,7 +1,7 @@
 <div align="center">
 <!-- Waving Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6F3AFF&height=100&section=header&animation=fadeIn" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B3B2D&height=100&section=header&animation=fadeIn" />
+  
 <!-- Professional Role Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Developer-sh1vam--03-6F3AFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
