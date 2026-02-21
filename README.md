@@ -155,7 +155,7 @@
     </td>
     <!-- RIGHT SIDE (Portfolio) -->
     <td style="padding: 20px; text-align: center; vertical-align: middle;">
-      <a href="https://sh1vam-03.github.io/portfolio" style="color: #6F3AFF; font-size: 18px; font-weight: bold; text-decoration: none;">
+      <a href="https://thrax.ae" style="color: #6F3AFF; font-size: 18px; font-weight: bold; text-decoration: none;">
         🌐 Visit My Portfolio
       </a>
       <br><br>
