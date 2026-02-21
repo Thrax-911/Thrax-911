@@ -177,7 +177,7 @@
           <a href="https://www.linkedin.com/in/dr-thrax">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="max-width: 100%;"/>
           </a>
-          <a href="https://tryhackme.com/p/Thrax.911">
+          <a href="https://tryhackme.com/p/Dr.ThraX">
             <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" style="max-width: 100%;"/>
           </a>
           <a href="mailto: balaji030204@gmail.com">
