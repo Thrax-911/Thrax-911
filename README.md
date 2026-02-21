@@ -4,8 +4,8 @@
   
 <!-- Professional Role Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Developer-sh1vam--03-6F3AFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Web_Tester-0D1117?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Developer-sh1vam--03-6F3AFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0B3B2D" />
+  <img src="https://img.shields.io/badge/Web_Tester-0D1117?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0B3B2D" />
 </p>
 
 
