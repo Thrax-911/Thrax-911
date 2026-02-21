@@ -36,6 +36,15 @@
 </table></div>
 
 
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Thrax-911&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Thrax-911&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Thrax-911&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6F3AFF&height=100&section=footer&animation=fadeIn&stroke=000000&strokeWidth=2" style="max-width: 100%;"/>
 </div>
