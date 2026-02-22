@@ -63,36 +63,10 @@
 ## Tech Arsenal
 <div align="center" style="margin: 30px auto; max-width: 1200px; width: calc(100% - 30px); padding: 0 15px;">
 
-<!--  Gaming Development -->
+  <!-- Security Tools Table -->
   <div style="width: 100%; background: rgba(111, 58, 255, 0.05); border-radius: 10px; margin: 20px 0; overflow-x: auto;">
     <table style="width: 100%; border-collapse: collapse; min-width: 600px;">
       <tr>
-        <th colspan="5" style="padding: 15px; text-align: center; color: #6F3AFF;"><b>Security Toolkit</b></th>
-      </tr>
-      <tr>
-        <td style="padding: 10px; text-align: center;">
-          <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-        </td>
-        <td style="padding: 10px; text-align: center;">
-          <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite" style="max-width: 100%;"/><br/>
-        </td>
-        <td style="padding: 10px; text-align: center;">
-          <img src="https://img.shields.io/badge/Metasploit-E34F26?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" style="max-width: 100%;"/><br/>
-        </td>
-        <td style="padding: 10px; text-align: center;">
-          <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" style="max-width: 100%;"/><br/>
-        </td>
-        <td style="padding: 10px; text-align: center;">
-          <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" style="max-width: 100%;"/><br/>
-        </td>
-      </tr>
-    </table>
-  </div>
-
-  <!-- Security Tools Table -->
-  <div style="width: 100%; background: rgba(111, 58, 255, 0.05); border-radius: 10px; margin: 20px 0; overflow-x: auto;">
-    <tr>
         <th colspan="5" style="padding: 15px; text-align: center; color: #6F3AFF;"><b>Security Toolkit</b></th>
       </tr>
       <tr>
