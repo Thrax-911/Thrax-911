@@ -71,9 +71,8 @@
       </tr>
       <tr>
         <td style="padding: 10px; text-align: center;">
-          <td style="padding: 10px; text-align: center;">
-          <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" style="max-width: 100%;"/><br/>
-        </td>
+          <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
         </td>
         <td style="padding: 10px; text-align: center;">
           <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite" style="max-width: 100%;"/><br/>
