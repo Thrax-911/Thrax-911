@@ -82,9 +82,6 @@
         <td style="padding: 10px; text-align: center;">
           <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" style="max-width: 100%;"/><br/>
         </td>
-        <td style="padding: 10px; text-align: center;">
-          <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" style="max-width: 100%;"/><br/>
-        </td>
       </tr>
     </table>
   </div>
