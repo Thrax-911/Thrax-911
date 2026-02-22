@@ -159,7 +159,7 @@
         🌐 Visit My Portfolio
       </a>
       <br><br>
-      <img src="https://github.com/user-attachments/assets/bc3cf9af-ad02-4c73-a9cc-88624c937474" 
+      <img src="https://i.ibb.co/zhT6RRvJ/image-1.png" 
            alt="Portfolio Preview" width="450"/>
     </td>
   </tr>
