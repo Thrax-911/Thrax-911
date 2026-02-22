@@ -80,10 +80,14 @@
   </a>
         </td>
         <td style="padding: 10px; text-align: center;">
-          <img src="https://img.shields.io/badge/Metasploit-E34F26?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" style="max-width: 100%;"/><br/>
+           <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
+  </a>
         </td>
         <td style="padding: 10px; text-align: center;">
-          <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" style="max-width: 100%;"/><br/>
+          <a href="https://libsdl.org/" target="_blank" rel="noreferrer">
+    <img src="https://i.ibb.co/yFzkwL8z/SDL.png" alt="SDL" width="40" height="40"/>
+  </a>
         </td>
       </tr>
     </table>
