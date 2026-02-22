@@ -67,7 +67,7 @@
   <div style="width: 100%; background: rgba(111, 58, 255, 0.05); border-radius: 10px; margin: 20px 0; overflow-x: auto;">
     <table style="width: 100%; border-collapse: collapse; min-width: 600px;">
       <tr>
-        <th colspan="5" style="padding: 15px; text-align: center; color: #6F3AFF;"><b>Gaming Development Languages</b></th>
+        <th colspan="5" style="padding: 15px; text-align: center; color: #6F3AFF;"><b>Gaming Development Languages & Tools</b></th>
       </tr>
       <tr>
         <td style="padding: 10px; text-align: center;">
