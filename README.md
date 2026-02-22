@@ -92,10 +92,11 @@
 
   <!-- Security Tools Table -->
   <div style="width: 100%; background: rgba(111, 58, 255, 0.05); border-radius: 10px; margin: 20px 0; overflow-x: auto;">
-    <table style="width: 100%; border-collapse: collapse; min-width: 600px;">
-      <tr>
+    <tr>
         <th colspan="5" style="padding: 15px; text-align: center; color: #6F3AFF;"><b>Security Toolkit</b></th>
       </tr>
+      <tr>
+        <td style="padding: 10px; text-align: center;">
           <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" style="max-width: 100%;"/><br/>
         </td>
         <td style="padding: 10px; text-align: center;">
