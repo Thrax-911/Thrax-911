@@ -219,6 +219,8 @@
   </table>
 </div>
 <div align="center">
-  https://camo.githubusercontent.com/9f43442d2da84a99fa8fb35463b570c695a4ca805673c9800c7cdf64876e2e3c/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d466972612b436f64652673697a653d3136266475726174696f6e3d333030302670617573653d3130303026636f6c6f723d3030464634312663656e7465723d74727565267643656e7465723d747275652672616e646f6d3d66616c73652677696474683d363030266865696768743d3530266c696e65733d5365652b796f752b696e2b7468652b6c6f67732e2e2e3b537461792b73686172702e2b537461792b7365637572652e3b5468652b68756e742b6e657665722b656e64732e
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&height=50&lines=See+you+in+the+logs...;Stay+sharp.+Stay+secure.;The+hunt+never+ends." alt="Typing SVG" />
+</div>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B3B2D&height=100&section=footer&animation=fadeIn&stroke=000000&strokeWidth=2" style="max-width: 100%;"/>
 </div>
