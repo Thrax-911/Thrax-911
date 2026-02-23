@@ -198,6 +198,10 @@
   </div>
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&height=50&lines=See+you+in+the+logs...;Stay+sharp.+Stay+secure.;The+hunt+never+ends." alt="Typing SVG" />
+</div>
+
 <div align="center" style="background: rgba(111, 58, 255, 0.1); padding: 30px; border-radius: 10px; margin: 30px auto; max-width: 1000px; width: calc(100% - 30px);">
   <table style="width: 100%; border-collapse: collapse;">
     <tr>
@@ -219,8 +223,5 @@
   </table>
 </div>
 <div align="center">
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&height=50&lines=See+you+in+the+logs...;Stay+sharp.+Stay+secure.;The+hunt+never+ends." alt="Typing SVG" />
-</div>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B3B2D&height=100&section=footer&animation=fadeIn&stroke=000000&strokeWidth=2" style="max-width: 100%;"/>
 </div>
