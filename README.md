@@ -189,7 +189,7 @@
         🌐 Visit My Latest Project
       </a>
       <br><br>
-      <img src="https://www.springboard.com/blog/wp-content/uploads/2022/03/what-is-a-coding-project.png" 
+      <img src="https://cdn-blog.superprof.com/blog_gb/wp-content/uploads/2020/12/defining-your-project.jpg.webp" 
            alt="Portfolio Preview" width="450"/>
     </td>
   </tr>
