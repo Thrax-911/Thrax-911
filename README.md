@@ -186,7 +186,7 @@
     <!-- RIGHT SIDE (Portfolio) -->
     <td style="padding: 20px; text-align: center; vertical-align: middle;">
       <a href="https://thrax.ae" style="color: #6F3AFF; font-size: 18px; font-weight: bold; text-decoration: none;">
-        🌐 Visit My Portfolio
+        🌐 Visit My Latest Project
       </a>
       <br><br>
       <img src="https://i.ibb.co/zhT6RRvJ/image-1.png" 
