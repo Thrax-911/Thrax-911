@@ -72,8 +72,13 @@
       <tr>
         <td style="padding: 10px; text-align: center;">
           <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-        </td>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+          </td>
+        <td style="padding: 10px; text-align: center;">
+          <a href="https://libsdl.org/" target="_blank" rel="noreferrer">
+    <img src="https://i.ibb.co/yFzkwL8z/SDL.png" alt="SDL" width="40" height="40"/>
+  </a>
+        </td> 
         <td style="padding: 10px; text-align: center;">
           <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
